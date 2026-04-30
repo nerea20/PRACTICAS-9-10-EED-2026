@@ -1,6 +1,6 @@
 # PRACTICAS-9-10-EED-2026
 
-Este repositorio contiene los distintos entregables del proyecto de Java:
+Este repositorio contiene los distintos entregables del proyecto:
 
 ## Entregable 1
 La carpeta **EjemploEntornos** contiene el proyecto Java completo junto con sus tests realizados con JUnit.
@@ -17,6 +17,3 @@ La carpeta **EjemploEntornosRefactorizado** corresponde a la segunda versión de
 ## Entregable 5
 La carpeta **doc** contiene la documentación generada mediante JavaDoc.
 
----
-
-Cada carpeta/archivo representa un entregable independiente del proyecto.
